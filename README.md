@@ -1,1 +1,2 @@
 # TA4_JS
+Dado un archivo HTML, crear un archivo .js que implemente una función llamada sumAll(a: int, b: int) que calcule la suma de todos los números desde el parámetro a al parámetro b (incluídos) y lo imprima usando console.log()
